@@ -1,7 +1,7 @@
 ### Hi there  :wave: I am Avishka
 
-- 🌱 I’m currently learning  Management Information Systems as an Undergraduate at NSBM green university. 
-- 👯 I’m looking to collaborate on open source and commercial projects.
+-  :boy: I’m currently learning  Management Information Systems as an Undergraduate at NSBM green university. 
+-  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

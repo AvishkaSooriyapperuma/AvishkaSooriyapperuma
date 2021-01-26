@@ -1,11 +1,11 @@
-### Hi there  :wave: I am Avishka
+<center>### Hi there  :wave: I am Avishka</center>
 
 -  :boy: I’m currently learning  Management Information Systems as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<br><br>
+
+
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,7 +29,9 @@
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)  -->
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br><br>
+
 ![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
  <br>

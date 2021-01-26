@@ -1,4 +1,4 @@
-<center>### Hi there  :wave: I am Avishka</center>
+### Hi there  :wave: I am Avishka
 
 -  :boy: I’m currently learning  Management Information Systems as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.

@@ -1,6 +1,6 @@
 ### Hi there  :wave: I am Avishka
 
--  :boy: I’m currently learning  Management Information Systems as an Undergraduate at NSBM green university. 
+-  :boy: I’m currently following Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 

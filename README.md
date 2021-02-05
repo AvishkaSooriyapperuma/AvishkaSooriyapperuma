@@ -1,4 +1,4 @@
-<h1><center>### Hi there  :wave: I am Avishka</center></h1>
+<h1>Hi there  :wave: I am Avishka</h1>
 <hr>
 
 -  :boy: I’m currently following Management Information Systems degree as an Undergraduate at NSBM green university. 

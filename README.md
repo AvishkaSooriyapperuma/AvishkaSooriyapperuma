@@ -1,6 +1,6 @@
 <h1 align=center>Hi there!  :wave: I am Avishka</h1>
 <hr>
-<img align=center alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align=center />
 
 -  :boy: I’m currently following Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.

@@ -32,9 +32,8 @@
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <br><hr>
-<br><br>
+
 ![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
- <br>
 
 

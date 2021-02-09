@@ -1,11 +1,12 @@
 <h1 align=center>Hi there!  :wave: I am Avishka</h1>
 <hr>
+<img align=center alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 -  :boy: I’m currently following Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)

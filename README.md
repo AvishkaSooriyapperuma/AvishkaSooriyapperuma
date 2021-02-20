@@ -1,6 +1,6 @@
 <h1 align=center>Hi there!  :wave: I am Avishka</h1>
 <hr>
-
+<h3 align=center>Undergraduate | Ubuntu and Windows user | Foss Enthusiast </h3>
 
 -  :boy: I’m currently following Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.

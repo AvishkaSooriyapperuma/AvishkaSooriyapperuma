@@ -2,7 +2,7 @@
 <hr>
 <h3 align=center>Undergraduate | Ubuntu and Windows user | Foss Enthusiast </h3>
 
--  :boy: I’m currently following Management Information Systems degree as an Undergraduate at NSBM green university. 
+-  :boy: I currently follow Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 

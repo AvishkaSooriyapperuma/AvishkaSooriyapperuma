@@ -1,12 +1,12 @@
 <h1 align=center>Hey folks!  :wave: Avishka is here!</h1>
 <hr>
-![AvishkaSooriyapperuma]<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/98388e874127faad1133a80671c7f5a477da2375/wall.png" alt="AvishkaSooriyapperuma" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AvishkaSooriyapperuma&color=brightgreen" alt="AvishkaSooriyapperuma" /> </p>
+<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/98388e874127faad1133a80671c7f5a477da2375/wall.png" alt="AvishkaSooriyapperuma" />
 <hr>
 
 -  :boy: I currently follow Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AvishkaSooriyapperuma&color=brightgreen" alt="AvishkaSooriyapperuma" /> </p>
 
 
 

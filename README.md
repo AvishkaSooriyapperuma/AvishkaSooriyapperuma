@@ -1,6 +1,6 @@
 <h1 align=center>Hi there!  :wave: I am Avishka</h1>
 <hr>
-<p align="left"> <img src="" alt="AvishkaSooriyapperuma" /> </p>
+<p align="left"> <img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/dc2bec10592488c1830b24a3b286ec72fb7e5ae3/wall.png" alt="AvishkaSooriyapperuma" /> </p>
 
 -  :boy: I currently follow Management Information Systems degree as an Undergraduate at NSBM green university. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.

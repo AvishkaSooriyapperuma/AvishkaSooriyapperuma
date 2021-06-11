@@ -1,6 +1,7 @@
 <h1 align=center>Hey folks!  :wave: Avishka is here!</h1>
 <hr>
-<p align="left"> <img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/331829be4a3f5089dec8796e8aa8b5de0ac4bbb0/wall.png" alt="AvishkaSooriyapperuma" /> </p>
+![AvishkaSooriyapperuma]<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/98388e874127faad1133a80671c7f5a477da2375/wall.png" alt="AvishkaSooriyapperuma" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AvishkaSooriyapperuma&color=brightgreen" alt="AvishkaSooriyapperuma" /> </p>
 <hr>
 
 -  :boy: I currently follow Management Information Systems degree as an Undergraduate at NSBM green university. 

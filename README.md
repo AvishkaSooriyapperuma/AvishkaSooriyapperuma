@@ -37,5 +37,7 @@
 
 <!--![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
+<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/cd4732a1c900d1a911f2c4352105aa155c156a19/hacktoberfest2020-badge_2.webp" width="150"/>
+<hr>
 
 

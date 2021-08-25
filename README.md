@@ -3,7 +3,7 @@
 <img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/0b550fea2a6c3cb40cbece9a187e42177681a133/wall.png" />
 <hr>
 
--  :boy: I currently follow Management Information Systems degree as an Undergraduate at NSBM green university. 
+-  :boy: I'm currently following Management Information Systems degree at NSBM Green University. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AvishkaSooriyapperuma&color=brightgreen" alt="AvishkaSooriyapperuma" /> </p>

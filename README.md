@@ -35,9 +35,20 @@
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <br><hr>
 
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/w20r2yzgc0ih50fivdgvqxfli)
+
+---
+
+
+
 <!--![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)
-<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/cd4732a1c900d1a911f2c4352105aa155c156a19/hacktoberfest2020-badge_2.webp" width="150"/>
+
 <hr>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaSooriyapperuma&layout=compact&langs_count=8&theme=light)

@@ -2,13 +2,15 @@
 <hr>
 <img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/0b550fea2a6c3cb40cbece9a187e42177681a133/wall.png" />
 <hr>
+[![@avishkasoori's Holopin board](https://holopin.me/avishkasoori)](https://holopin.io/@avishkasoori)
+<hr>
 
 -  :boy: I'm currently following Management Information Systems degree at NSBM Green University. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AvishkaSooriyapperuma&color=brightgreen" alt="AvishkaSooriyapperuma" /> </p>
 
-[![@avishkasoori's Holopin board](https://holopin.me/avishkasoori)](https://holopin.io/@avishkasoori)
+
 
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)

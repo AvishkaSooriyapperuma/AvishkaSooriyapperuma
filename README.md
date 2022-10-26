@@ -7,7 +7,6 @@
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: avishkadilshan400@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AvishkaSooriyapperuma&color=brightgreen" alt="AvishkaSooriyapperuma" /> </p>
-<hr>
 [![@avishkasoori's Holopin board](https://holopin.me/avishkasoori)](https://holopin.io/@avishkasoori)
 <hr>
 

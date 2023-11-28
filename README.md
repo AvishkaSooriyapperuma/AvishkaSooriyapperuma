@@ -1,6 +1,6 @@
 <h1 align=center>Hey folks!  :wave: Avishka is here!</h1>
 <hr>
-<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/0b550fea2a6c3cb40cbece9a187e42177681a133/avishka.jpeg" />
+<img src="https://github.com/AvishkaSooriyapperuma/AvishkaSooriyapperuma/blob/0b550fea2a6c3cb40cbece9a187e42177681a133/avishka.png" />
 <hr>
 
 -  :boy: I'm currently following Management Information Systems degree at NSBM Green University. 
